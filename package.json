@@ -1,0 +1,16 @@
+{
+  "name": "mercadoliebre",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "",
+    "start": "node app"
+  },
+  "author": "Group 2",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  },
+  "description": "Group 2 - Mercado Liebre - 2021"
+}
